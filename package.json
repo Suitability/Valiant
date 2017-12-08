@@ -1,0 +1,16 @@
+{
+  "name": "valiant",
+  "version": "0.1.0",
+  "description": "Valiant is a multi-purpsoe bot created for Discord.",
+  "main": "index.js",
+  "repository": "https://github.com/Suitability/Valiant",
+  "author": "Ahmad | Suit",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
